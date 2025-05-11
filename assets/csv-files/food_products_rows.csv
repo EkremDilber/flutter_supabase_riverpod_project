@@ -1,0 +1,7 @@
+imageCard,imageDetail,name,price,rate,specialItems,category,kcal,time
+assets/food-delivery/product/beef_burger.png,assets/food-delivery/product/beef_burger1.png,Beef Burger,7.59,4.5,Cheesy Mozarella 🧀,Burger,500,10 min
+assets/food-delivery/product/double_burger.png,assets/food-delivery/product/double_burger1.png,Double Burger,10.0,4.9,Double Beef 🍖,Burger,700,15 min
+assets/food-delivery/product/cheese-burger.png,assets/food-delivery/product/cheese-burger1.png,Cheese Burger,8.88,4.8,Extra Cheese 🧀,Burger,600,12 min
+assets/food-delivery/product/bacon_burger.png,assets/food-delivery/product/bacon_burger1.png,Bacon Burger,9.99,5.0,Mix Beef 🥩,Burger,650,14 min
+assets/food-delivery/product/pizza111.png,assets/food-delivery/product/pizza.png,Chicken Pizza,19.99,4.0,Cheese Pizza 🍕,Pizza,1200,20 min
+assets/food-delivery/product/cup_cake.png,assets/food-delivery/product/cup-cake1.png,Cream Cake,5.99,4.7,Mix Cream 🧁,Cup Cake,300,8 min
